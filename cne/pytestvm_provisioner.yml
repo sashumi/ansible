@@ -1,7 +1,0 @@
----
-- hosts: "pytestvm"
-  remote_user: ubuntu
-  become: yes
-
-  roles:
-    - jenkins
